@@ -1,0 +1,6 @@
+export const SIGNIN_FAILURE = 'SIGNIN_FAILURE';
+export const AUTH_USER = 'AUTH_USER';
+export const UNAUTH_USER = 'UNAUTH_USER';
+
+export const FETCH_PACIENTES = 'FETCH_PACIENTES';
+export const FETCH_SESSOES = 'FETCH_SESSOES';
